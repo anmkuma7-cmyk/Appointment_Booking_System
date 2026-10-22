@@ -1,0 +1,7 @@
+Appointment Booking System
+
+Before submission:
+- Personalize the report and add your own details.
+- Run and test the app locally.
+- Add screenshots from your own test run.
+- Explain the project honestly during evaluation.
